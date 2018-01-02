@@ -30,3 +30,18 @@ a:visited {
 a:hover {
   color: rgb(102,102,255);
 }
+body {
+  
+}
+#right-side{
+  position: absolute;
+  right: 0px;
+  width: 75%;
+}
+
+p {
+  text-indent: 5%;
+  font-size: 25px;
+  margin-left:15px;
+  font-family: Questrial;
+}
