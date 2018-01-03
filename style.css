@@ -1,7 +1,8 @@
 .header-class{
   text-align: center;
   font-family: Roboto Mono;
-  font-size: 40px
+  font-size: 60px;
+  margin-bottom: 75px;
 }
 
 #sidenav{
@@ -13,26 +14,25 @@
   font-size: 25px;
   font-family: Roboto Mono;
   color: white;
+  padding: 16px 16px
 }
 
 ul{
   list-style-type: none;
 }
-a:link {
+.sn a:link {
   text-decoration: none;
   color: white;
   
 }
-a:visited {
+.sn a:visited {
   text-decoration: none;
   color: white;
 }
-a:hover {
+.sn a:hover {
   color: rgb(102,102,255);
 }
-body {
-  
-}
+
 #right-side{
   position: absolute;
   right: 0px;
@@ -40,8 +40,64 @@ body {
 }
 
 p {
-  text-indent: 5%;
+  text-indent: 7.5%;
   font-size: 25px;
-  margin-left:15px;
+  margin-left:55px;
+  margin-right: 55px;
   font-family: Questrial;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 35px;
+}
+#bball-link {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(255,102,102);
+  font-family: Roboto Mono;
+  margin-bottom: 15px;
+  
+  
+}
+
+
+#bball-description {
+  text-indent: 20px;
+  font-size: 15px;
+  font-family: Questrial;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#social-media {
+  font-size: 50px;
+  text-align: center;
+  border-radius: 50%;
+  
+}
+.fa-github {
+  background: white;
+  color: black;
+  text-decoration:  none;
+}
+.fa-twitter {
+  background: white;
+  color: #55ACEE;
+  text-decoration:  none;
+}
+.fa-linkedin {
+  background:white;
+  color: #007bb5;
+  text-decoration:  none;
+}
+a:link {
+  text-decoration: none;
 }
