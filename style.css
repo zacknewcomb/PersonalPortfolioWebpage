@@ -3,6 +3,13 @@
   font-family: Roboto Mono;
   font-size: 60px;
   margin-bottom: 75px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.body-class {
+  width: 80%;
+  margin-left: 10%;
 }
 
 #sidenav{
@@ -11,7 +18,7 @@
   background-color: rgb(255,102,102);
   width: 25%;
   height: 100%;
-  font-size: 25px;
+  font-size: 45px;
   font-family: Roboto Mono;
   color: white;
   padding: 16px 16px
@@ -84,20 +91,30 @@ img {
   
 }
 .fa-github {
-  background: white;
+  
   color: black;
   text-decoration:  none;
 }
 .fa-twitter {
-  background: white;
+  
   color: #55ACEE;
   text-decoration:  none;
 }
 .fa-linkedin {
-  background:white;
+  
   color: #007bb5;
   text-decoration:  none;
 }
 a:link {
   text-decoration: none;
+}
+
+.social_media_sidebar {
+  margin-top: 100%;
+  text-align: center;
+  
+}
+
+.side_nav_content {
+  height: 25%;
 }
