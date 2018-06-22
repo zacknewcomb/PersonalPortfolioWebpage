@@ -21,7 +21,6 @@
   font-size: 45px;
   font-family: Roboto Mono;
   color: white;
-  padding: 16px 16px
 }
 
 ul{
@@ -49,8 +48,8 @@ ul{
 p {
   text-indent: 7.5%;
   font-size: 25px;
-  margin-left:55px;
-  margin-right: 55px;
+  margin-left: 5%;
+  margin-right: 5%;
   font-family: Questrial;
   margin-bottom: 50px;
 }
@@ -67,7 +66,7 @@ img {
 }
 #bball-link {
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
   color: rgb(255,102,102);
   font-family: Roboto Mono;
   margin-bottom: 15px;
@@ -78,10 +77,10 @@ img {
 
 #bball-description {
   text-indent: 20px;
-  font-size: 15px;
+  font-size: 25px;
   font-family: Questrial;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #social-media {
@@ -110,11 +109,43 @@ a:link {
 }
 
 .social_media_sidebar {
-  margin-top: 100%;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  margin-left:5%;
   
 }
 
 .side_nav_content {
   height: 25%;
+}
+
+#LinearAlgebra-link {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(255,102,102);
+  font-family: Roboto Mono;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+
+#LinearAlgebra-description {
+  text-indent: 20px;
+  font-size: 25px;
+  font-family: Questrial;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.body-links a:link {
+  text-decoration: none;
+  color: rgb(102,102,255); 
+}
+
+.body-links a:hover{
+  color: rgb(255,102,102);
+}
+
+.body-links a:visited {
+  text-decoration: white;
 }
