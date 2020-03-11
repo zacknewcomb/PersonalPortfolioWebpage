@@ -12,8 +12,7 @@
   margin-left: 10%;
 }
 
-#sidenav{
-  
+#sidenav{  
   position: fixed;
   background-color: rgb(255,102,102);
   width: 25%;
@@ -64,24 +63,7 @@ img {
   margin: auto;
   margin-bottom: 35px;
 }
-#bball-link {
-  text-align: center;
-  font-size: 25px;
-  color: rgb(255,102,102);
-  font-family: Roboto Mono;
-  margin-bottom: 15px;
-  
-  
-}
 
-
-#bball-description {
-  text-indent: 20px;
-  font-size: 25px;
-  font-family: Questrial;
-  margin-left: 10%;
-  margin-right: 10%;
-}
 
 #social-media {
   font-size: 50px;
@@ -120,7 +102,7 @@ a:link {
   height: 25%;
 }
 
-#LinearAlgebra-link {
+#project-link {
   text-align: center;
   font-size: 25px;
   color: rgb(255,102,102);
@@ -129,12 +111,12 @@ a:link {
   margin-top: 25px;
 }
 
-#LinearAlgebra-description {
+#project-description {
   text-indent: 20px;
   font-size: 25px;
   font-family: Questrial;
   margin-left: 10%;
-  margin-right: 10%;
+  margin-right: 10%; 
 }
 
 .body-links a:link {
