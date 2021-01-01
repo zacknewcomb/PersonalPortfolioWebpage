@@ -1,0 +1,123 @@
+.header-class{
+  text-align: center;
+  font-family: Roboto Mono;
+  font-size: 60px;
+  margin-bottom: 75px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.body-class {
+  width: 80%;
+  margin-left: 10%;
+}
+
+ul{
+  list-style-type: none;
+}
+.sn a:link {
+  text-decoration: none;
+  color: white;
+  
+}
+.sn a:visited {
+  text-decoration: none;
+  color: white;
+}
+.sn a:hover {
+  color: rgb(102,102,255);
+}
+
+#right-side{
+  position: absolute;
+  right: 0px;
+  width: 75%;
+}
+
+p {
+  text-indent: 7.5%;
+  font-size: 25px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Questrial;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 35px;
+}
+
+
+#social-media {
+  font-size: 50px;
+  text-align: center;
+  border-radius: 50%;
+  
+}
+.fa-github {
+  
+  color: black;
+  text-decoration:  none;
+}
+.fa-twitter {
+  
+  color: #55ACEE;
+  text-decoration:  none;
+}
+.fa-linkedin {
+  
+  color: #007bb5;
+  text-decoration:  none;
+}
+a:link {
+  text-decoration: none;
+}
+
+.social_media_sidebar {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  margin-left:5%;
+  
+}
+
+.side_nav_content {
+  height: 25%;
+}
+
+#project-link {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(255,102,102);
+  font-family: Roboto Mono;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+
+#project-description {
+  text-indent: 20px;
+  font-size: 25px;
+  font-family: Questrial;
+  margin-left: 10%;
+  margin-right: 10%; 
+}
+
+.body-links a:link {
+  text-decoration: none;
+  color: rgb(102,102,255); 
+}
+
+.body-links a:hover{
+  color: rgb(255,102,102);
+}
+
+.body-links a:visited {
+  text-decoration: white;
+}
